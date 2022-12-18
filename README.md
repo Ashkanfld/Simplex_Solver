@@ -52,7 +52,9 @@ subject to
 
 Minimize   	Z = -X1 - 2X2
 
-subject to     -2X1 + X2 + X3 = 2
+subject to  
+
+               -2X1 + X2 + X3 = 2
 	       -X1 + 2X2 + X4 = 7
 	              X1 + X5 = 3
              X1,X2,X3,X4,X5>=0              
