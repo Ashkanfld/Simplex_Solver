@@ -40,6 +40,7 @@ Note: all components of the vector 'b' must be Non-negative.
 1) basic form 
 
 Minimize      Z = -X1 - 2X2
+
 subject to    -2X1 + X2 <= 2
 	       -X1 + 2X2<= 7
 	             X1 <= 3
@@ -48,6 +49,7 @@ subject to    -2X1 + X2 <= 2
 2) standard form 
 
 Minimize   	Z = -X1 - 2X2
+
 subject to     -2X1 + X2 + X3 = 2
 	       -X1 + 2X2 + X4 = 7
 	              X1 + X5 = 3
